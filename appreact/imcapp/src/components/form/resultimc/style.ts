@@ -1,5 +1,4 @@
 import { StyleSheet } from "react-native";
-import ResultImc from ".";
 
 export const styles = StyleSheet.create({
     resultImc:{
