@@ -1,13 +1,13 @@
 import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
-    boxTitulo: {
+    containerTitle: {
         alignItems: 'center',
         justifyContent: 'center',
-        padding: 10,
+        padding: 10
     },
 
-    txtTitle: {
+    textTitulo: {
         color: '#FF0043',
         fontSize: 24,
         fontWeight: 'bold'
